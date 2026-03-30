@@ -5,10 +5,7 @@ This website showcases my skills, projects, certificates, and contact details.
 It is fully hosted on **AWS S3**.
 
 ---
-
-## 🔗 Live Portfolio Output (Hosted on AWS S3)
-
-👉 **http://aswini-portfolio-cloud-9487.s3-website.eu-north-1.amazonaws.com**
+https://aswini-frontend-portfolio-7s1cyq7j4.vercel.app/
 
 Click the link above to view the full working website.
 
@@ -24,7 +21,7 @@ This portfolio highlights my technical journey and achievements.
 - HTML  
 - CSS  
 - JavaScript  
-- AWS S3 (Static Website Hosting)
+
 
 ---
 
